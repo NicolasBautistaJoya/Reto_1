@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Reto_1</string>
+    <string name="app_name">Reto_2</string>
     <string name="navigation_drawer_open">Open navigation drawer</string>
     <string name="navigation_drawer_close">Close navigation drawer</string>
     <string name="nav_header_title">Android Studio</string>
@@ -10,4 +10,6 @@
     <string name="menu_home">Productos</string>
     <string name="menu_gallery">Servicios</string>
     <string name="menu_slideshow">Sucursales</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
